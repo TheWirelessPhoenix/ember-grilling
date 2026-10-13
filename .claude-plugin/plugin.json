@@ -1,0 +1,12 @@
+{
+  "name": "ember-grilling",
+  "description": "Interviews you one question at a time to stress-test a plan, design, or idea until every decision is settled, then writes a handoff file.",
+  "version": "1.0.0",
+  "author": {
+    "name": "TheWirelessPhoenix"
+  },
+  "homepage": "https://github.com/TheWirelessPhoenix/ember-grilling",
+  "repository": "https://github.com/TheWirelessPhoenix/ember-grilling",
+  "license": "MIT",
+  "keywords": ["planning", "interview", "decisions", "design-review", "stress-test"]
+}

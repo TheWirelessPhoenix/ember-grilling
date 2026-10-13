@@ -1,0 +1,14 @@
+{
+  "name": "ember-grilling",
+  "description": "Planning interview skill by TheWirelessPhoenix",
+  "owner": {
+    "name": "TheWirelessPhoenix"
+  },
+  "plugins": [
+    {
+      "name": "ember-grilling",
+      "source": "./",
+      "description": "Interviews you one question at a time to stress-test a plan until every decision is settled, then writes a handoff file."
+    }
+  ]
+}
